@@ -3,7 +3,7 @@ Contributors: vk011
 Tags: posts, slider
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.2.0
+Stable tag: 1.3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,7 +20,7 @@ Post slider for your posts. It allows you to slide posts either from a specific 
 1. Image size and number of characters to show can be set from the backend
 1. Choose the number of visible posts per slide
 
-For documentation go here: [DEMO](http://jultranet.com/wp/rpslite-doc/)
+For documentation go here: DOCS(http://jultranet.com/wp/rpslite-doc/)
 
 Check out the demo here: [DEMO](http://jultranet.com/wp/rps-lite/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=fbc62LKgAMI)
 
