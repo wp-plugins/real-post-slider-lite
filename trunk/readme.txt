@@ -3,7 +3,7 @@ Contributors: vk011
 Tags: posts, slider
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.3.1
+Stable tag: 1.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,7 +11,7 @@ Post slider for your posts.
 
 == Description ==
 
-Post slider for your posts. It allows you to slide posts either from a specific category or specific posts.
+Post slider for your posts. It allows you to have a slider for your posts either from a specific category or specific posts.The slider also uses featured images added to posts as images inside the slides, which are not connected to post content, so you are free to use whichever image you want for the post thumbnail!
 
 **Features:**
 
@@ -24,8 +24,9 @@ For documentation go here: [DOCS](http://jultranet.com/wp/rpslite-doc.html)
 
 Check out the demo here: [DEMO](http://jultranet.com/wp/rps-lite/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=fbc62LKgAMI)
 
-<h4>For a more full featured slider, be sure to check out Real Post Slider Pro!</h4>
+<h4>For a more full featured post slider, be sure to check out Real Post Slider Pro!</h4>
 Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/) , demo here: [DEMO](http://jultranet.com/wp/rps-pro/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=O3v6rVJjDF0)
+
 
 == Installation ==
 
