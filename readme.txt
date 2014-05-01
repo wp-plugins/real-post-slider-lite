@@ -49,7 +49,7 @@ Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/)
 
 = 1.9.5 =
 
-Added link to enhanced, premium version.
+* Added link to enhanced, premium version.
 
 == Arbitrary section ==
 
