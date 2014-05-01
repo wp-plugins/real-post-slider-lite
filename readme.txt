@@ -47,6 +47,9 @@ Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/)
 
 == Changelog ==
 
+= 1.9.5 =
+
+Added link to enhanced, premium version.
 
 == Arbitrary section ==
 
