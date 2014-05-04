@@ -5,7 +5,7 @@ Plugin Name: Real Post Slider Lite
 Plugin URI: http://wordpress.org/plugins/wp/
 Description: Works as a post slider (lite version)
 Author: Vojislav Kovacevic
-Version: 1.0
+Version: 1.9.7
 Author URI: http://wordpress.org/plugins/wp/
 */
 add_action( 'init', 'vkrpsl_options' );
