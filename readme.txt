@@ -2,8 +2,8 @@
 Contributors: vk011
 Tags: posts, slider
 Requires at least: 3.0.1
-Tested up to: 3.9
-Stable tag: 2.2
+Tested up to: 3.9.1
+Stable tag: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,7 +47,7 @@ Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/)
 
 == Changelog ==
 
-= 2.2 =
+= 2.3 =
 
 Fixed a bug that limited the number of posts that could be used.
 
