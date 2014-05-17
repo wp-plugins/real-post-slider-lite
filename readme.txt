@@ -3,7 +3,7 @@ Contributors: vk011
 Tags: posts, slider
 Requires at least: 3.0.1
 Tested up to: 3.9
-Stable tag: 1.9.8
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -47,9 +47,9 @@ Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/)
 
 == Changelog ==
 
-= 1.9.5 =
+= 2.0 =
 
-* Added link to enhanced, premium version.
+Fixed a bug that limited the number of posts that could be used.
 
 == Arbitrary section ==
 

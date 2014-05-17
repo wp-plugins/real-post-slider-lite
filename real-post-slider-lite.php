@@ -5,7 +5,7 @@ Plugin Name: Real Post Slider Lite
 Plugin URI: http://wordpress.org/plugins/wp/
 Description: Works as a post slider (lite version)
 Author: Vojislav Kovacevic
-Version: 1.9.7
+Version: 2.0
 Author URI: http://wordpress.org/plugins/wp/
 */
 add_action( 'init', 'vkrpsl_options' );
@@ -270,7 +270,7 @@ function vkrpsl_do_slider() {
       <?php
       if (empty($vkrpsl_order)) { 
         $cat_id = get_cat_id($vkrpsl_cat_name);
-        $the_query = new WP_Query( array('category__in' => $cat_id, 'order' => $vkrpsl_ascdesc) );
+        $the_query = new WP_Query( array('category__in' => $cat_id, 'order' => $vkrpsl_ascdesc,  'posts_per_page'=>-1) );
       } else {
           $s = explode(',', $vkrpsl_order);
           $arr = array('post__in' => $s, 'orderby' => 'post__in');
