@@ -29,6 +29,7 @@ Check out the upgraded, premium version Real Post Slider Lite PLUS which scrolls
 
 Check out the difference between the **regular** and the **plus** version here: [DEMO](http://jultranet.com/wp/rps-lite/)
 
+<h3>PRO Version</h3>
 <h4>For a more full featured post slider, be sure to check out Real Post Slider Pro!</h4>
 Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/) , demo here: [DEMO](http://jultranet.com/wp/rps-pro/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=O3v6rVJjDF0)
 
