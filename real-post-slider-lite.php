@@ -84,11 +84,11 @@ function vkrpsl_config_page() {
         <?php wp_nonce_field('vkrpsl-updatesettings'); ?>
 
         <tr>
-            <td><p>Check out the enhanced, premium version of this plugin here: <br><a href="http://www.jultranet.com/wp/#spl" target="_blank">Real Post Slider Lite Plus</a></p></td>
+            <td><p>Check out the enhanced, premium version of this plugin here: <br><a href="http://www.jultranet.com/wp/" target="_blank">Real Post Slider Plus Responsive</a></p></td>
         </tr>
 
         <tr>
-            <td><p>For a more full featured slider, check out <br><a href="http://www.jultranet.com/wp/" target="_blank">Real Post Slider Pro</a></p></td>
+            <td><p>For a bigger, news-like featured slider, check out <br><a href="http://www.jultranet.com/wp/" target="_blank">Real Post Slider Pro</a></p></td>
         </tr>
 
         <tr>
