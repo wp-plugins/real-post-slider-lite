@@ -30,6 +30,7 @@ Check out the upgraded, premium version Real Post Slider Lite PLUS which scrolls
 **Features:**
 
 <li>Responsive</li>
+<li>Mouse dragging ability</li>
 <li>Choose the number of posts to appear in one slide</li>
 <li>Uses post's featured image in the slider</li>
 <li>No special plugin page, works simply via a shortcode and options in that shortcode</li>
