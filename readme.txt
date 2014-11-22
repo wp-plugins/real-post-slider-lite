@@ -36,7 +36,7 @@ Check out the upgraded, premium version Real Post Slider Lite PLUS which scrolls
 <li>No special plugin page, works simply via a shortcode and options in that shortcode</li>
 <li>Unlimited number of sliders</li>
 <li>Adapts pagination and number of items in the slider based on screen size, which can be altered via shortcode options</li>
-<li>Add a break in the slider post by inserting the read more tag (which does not have to be shown)</li>
+<li>Add "read more" breaks in the slider posts by inserting the read more tag for each post in the slider ( the actual read more link does not have to be shown) OR set a universal maximum number of characters for each post in the slider which is applied to all posts in the slider</li>
 <li>Show/hide read more link</li>
 <li>Check out the demo for a full overview</li>
 
