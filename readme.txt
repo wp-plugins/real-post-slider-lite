@@ -24,13 +24,28 @@ For documentation go here: [DOCS](http://jultranet.com/wp/rpslite-doc.html)
 
 Check out the demo here: [DEMO](http://jultranet.com/wp/rps-lite/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=fbc62LKgAMI)
 
-<h3>Premium Version</h3>
-Check out the upgraded, premium version Real Post Slider Lite PLUS which scrolls all visible items at once with a nice animation. It is the enhanced version of the lite version. More info here: [LINK](http://jultranet.com/wp/#spl)
+<h3>Real Post Slider Plus Responsive ( premium version )</h3>
+Check out the upgraded, premium version Real Post Slider Lite PLUS which scrolls all visible items at once with a nice animation and is fully responsive.
 
-Check out the difference between the **regular** and the **plus** version here: [DEMO](http://jultranet.com/wp/rps-lite/)
+**Features:**
+
+<li>Responsive</li>
+<li>Choose the number of posts to appear in one slide</li>
+<li>Uses post's featured image in the slider</li>
+<li>No special plugin page, works simply via a shortcode and options in that shortcode</li>
+<li>Unlimited number of sliders</li>
+<li>Adapts pagination and number of items in the slider based on screen size, which can be altered via shortcode options</li>
+<li>Check out the demo for a full overview</li>
+<li>Read more at the end of slider post toggle ( show / don't show )</li>
+
+
+It is the enhanced version of the lite version. More info here: [LINK](http://jultranet.com/wp/)
+
+DEMO: [DEMO](http://jultranet.com/wp/real-post-slider-plus-responsive/)
 
 <h3>PRO Version</h3>
-<h4>For a more full featured post slider, be sure to check out Real Post Slider Pro!</h4>
+
+<h4>For a bigger, more news-like slider that supports background images, be sure to check out Real Post Slider Pro!</h4>
 Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/) , demo here: [DEMO](http://jultranet.com/wp/rps-pro/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=O3v6rVJjDF0)
 
 
