@@ -29,6 +29,7 @@ Check out the upgraded, premium version Real Post Slider Lite PLUS which scrolls
 
 **Features:**
 
+<li>Super easy use, display the slider via a shortcode</li>
 <li>Responsive</li>
 <li>Mouse dragging ability</li>
 <li>Choose the number of posts to appear in one slide</li>
@@ -44,7 +45,32 @@ It is the enhanced version of the lite version. More info here: [LINK](http://ju
 
 DEMO: [DEMO](http://jultranet.com/wp/real-post-slider-plus-responsive/)
 
-<h3>PRO Version</h3>
+<h3>Featured Posts Slider ( premium ) </h3>
+
+For a bigger slider to feature your posts, check out the Featured Posts Slider!
+
+**Features:**
+
+<li>Super easy use, display the slider via a shortcode</li>
+<li>Can be responsive</li>
+<li>Uses post's featured image in the slider</li>
+<li>No special plugin page, works simply via a shortcode and options in that shortcode</li>
+<li>Unlimited number of sliders</li>
+<li>Add "read more" breaks in the slider posts by inserting the read more tag for each post in the slider ( the actual read more link does not have to be shown) OR set a universal maximum number of characters for each post in the slider which is applied to all posts in the slider</li>
+<li>Show/hide read more link</li>
+<li>Change "read more" link text</li>
+<li>Set animation style to either "slide" or "fade"</li>
+<li>Set slideshow speed ( after how many seconds should the slide change to the next one )</li>
+<li>Ability to pause the slider upon user action ( e.g. clicking next )</li>
+<li>Ability to pause the slider when a user hovers over the slider</li>
+<li>Check out the demo for a full overview</li>
+
+***DEMO:*** DEMO: [DEMO](http://jultranet.com/wp/fps/)
+
+More info at: [MORE INFO](http://jultranet.com/wp/)
+
+
+<h3>Real Post Slider PRO</h3>
 
 <h4>For a bigger, more news-like slider that supports background images, be sure to check out Real Post Slider Pro!</h4>
 Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/) , demo here: [DEMO](http://jultranet.com/wp/rps-pro/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=O3v6rVJjDF0)
