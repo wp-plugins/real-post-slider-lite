@@ -73,7 +73,8 @@ More info at: [MORE INFO](http://jultranet.com/wp/)
 
 <h3>Real Post Slider PRO</h3>
 
-<h4>For a bigger, more news-like slider that supports background images, be sure to check out Real Post Slider Pro!</h4>
+For a bigger, more news-like slider, be sure to check out Real Post Slider Pro!
+
 Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/) , demo here: [DEMO](http://jultranet.com/wp/rps-pro/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=O3v6rVJjDF0)
 
 
