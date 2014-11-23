@@ -39,6 +39,7 @@ Check out the upgraded, premium version Real Post Slider Lite PLUS which scrolls
 <li>Adapts pagination and number of items in the slider based on screen size, which can be altered via shortcode options</li>
 <li>Add "read more" breaks in the slider posts by inserting the read more tag for each post in the slider ( the actual read more link does not have to be shown) OR set a universal maximum number of characters for each post in the slider which is applied to all posts in the slider</li>
 <li>Show/hide read more link</li>
+<li>Change "read more" link text</li>
 <li>Check out the demo for a full overview</li>
 
 It is the enhanced version of the lite version. More info here: [LINK](http://jultranet.com/wp/)
@@ -65,7 +66,7 @@ For a bigger slider to feature your posts, check out the Featured Posts Slider!
 <li>Ability to pause the slider when a user hovers over the slider</li>
 <li>Check out the demo for a full overview</li>
 
-***DEMO:*** DEMO: [DEMO](http://jultranet.com/wp/fps/)
+***DEMO:*** [DEMO](http://jultranet.com/wp/fps/)
 
 More info at: [MORE INFO](http://jultranet.com/wp/)
 
