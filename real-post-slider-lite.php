@@ -75,6 +75,19 @@ function vkrpsl_config_page() {
     $vkrpsl_ascdesc= get_option( 'vkrpsl_ascdesc' );
 
     ?>
+
+    <style type="text/css">
+
+    .postbox {
+      float: left;
+      height: 90px;
+      margin-left: 20px;
+      padding: 20px;
+      width: 300px;
+    }
+
+    </style>
+
     <div class="wrap">
         <h2>Real Post Slider Lite options</h2>
 
@@ -84,11 +97,27 @@ function vkrpsl_config_page() {
         <?php wp_nonce_field('vkrpsl-updatesettings'); ?>
 
         <tr>
-            <td><p>Check out the enhanced, premium version of this plugin here: <br><a href="http://www.jultranet.com/wp/#spl" target="_blank">Real Post Slider Lite Plus</a></p></td>
-        </tr>
+            <div class="postbox">
+                <p>Check out the enhanced, premium version of this plugin here: <br><a href="http://www.jultranet.com/wp/" target="_blank">Real Post Slider Plus Responsive</a><br>
+                Demo: <a href="http://jultranet.com/wp/real-post-slider-plus-responsive/" target="_blank">DEMO</a>
+                </p>
+            </div> <!-- end .postbox -->
 
-        <tr>
-            <td><p>For a more full featured slider, check out <br><a href="http://www.jultranet.com/wp/" target="_blank">Real Post Slider Pro</a></p></td>
+            <div class="postbox">
+                <p>Checkout Featured Posts Slider - a great slider to display posts: 
+                <br><a href="http://www.jultranet.com/wp/" target="_blank">Real Post Slider Plus Responsive</a><br>
+                Demo: <a href="http://jultranet.com/wp/fps/" target="_blank">DEMO</a>
+                </p>
+            </p>
+            </div> <!-- end .postbox -->
+
+            <div class="postbox">
+                <p>For a bigger, news-like featured slider, check out <br><a href="http://www.jultranet.com/wp/" target="_blank">Real Post Slider Pro DEMO</a><br>
+                Demo: <a href="http://jultranet.com/wp/rps-pro/" target="_blank">DEMO</a>
+                </p>
+            </div> <!-- end .postbox -->
+
+            <div class="clear"></div>
         </tr>
 
         <tr>
